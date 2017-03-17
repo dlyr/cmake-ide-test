@@ -1,0 +1,6 @@
+[submodule "cmake-example"]
+	path = cmake-example
+	url = https://github.com/bast/cmake-example.git
+[submodule "rtags"]
+	path = rtags
+	url = https://github.com/Andersbakken/rtags.git
